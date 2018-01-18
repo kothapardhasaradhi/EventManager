@@ -1,6 +1,15 @@
 package eventmgr.domain;
 
 public class Attendee {
+	
+	/*
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * hi helloooo
+	 */
 	private String name;
 	private String telephone;
 	private int id;
